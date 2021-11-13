@@ -1,5 +1,7 @@
 # Oppkey THETA ATK Base Template
 
+![screenshot](readme/images/screenshot.png)
+
 Oppkey's starter template for RICOH THETA mobile and desktop
 applications using the WebAPI and Flutter.
 
