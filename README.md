@@ -2,13 +2,13 @@
 
 ![screenshot](readme/images/screenshot.png)
 
-Oppkey's starter template for RICOH THETA mobile and desktop
-applications using the WebAPI and Flutter.
+Oppkey's starter Flutter template for building RICOH THETA mobile and desktop
+applications to test the WebAPI.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application for the
-RICOH THETA 360 cameras.
+This project is a starting point for a Flutter application to test the
+RICOH THETA 360 camera API.
 
 A few resources to get you started if this is your first
 Oppkey THETA ATK project:
