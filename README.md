@@ -8,7 +8,7 @@ applications using the WebAPI and Flutter.
 This project is a starting point for a Flutter application for the
 RICOH THETA 360 cameras.
 
-A few resources to get you started if this is your first 
+A few resources to get you started if this is your first
 Oppkey THETA ATK project:
 
 * [Oppkey THETA ATK v0.4 video tutorials](https://youtube.com/playlist?list=PL0feeJIlTI8m_DuzSk2xkd86j2q5VYv_o)
