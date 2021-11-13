@@ -1,4 +1,4 @@
-package com.example.oppkey_theta_atk_base_template
+package com.oppkey.oppkey_theta_atk_base_template
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -21,6 +21,12 @@ class ThetaApp extends StatelessWidget {
           // ResponseWindow on the top.
           child: Column(
             children: [
+              // SizedBox is used to add spacing to the top of the screen
+              // useful for some mobile phone screens to place the app
+              // below the topbar overlay
+              const SizedBox(
+                height: 20,
+              ),
               // use ResponseWindow from thetaf for text output
               // from the camera.  Example: InfoButton, StateButton
               const ResponseWindow(
