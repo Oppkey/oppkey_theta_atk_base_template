@@ -265,8 +265,8 @@ packages:
     dependency: transitive
     description:
       path: "."
-      ref: HEAD
-      resolved-ref: c5d91f183bbf31d818f6910a587f08a8a7f89b41
+      ref: "v0.3.1"
+      resolved-ref: e1bb2bb122b1c9765c402ba26bf5f778c0ca08c3
       url: "https://github.com/Oppkey/oppkey_theta.git"
     source: git
     version: "0.3.0"
@@ -274,11 +274,11 @@ packages:
     dependency: "direct main"
     description:
       path: "."
-      ref: "v0.3.0"
-      resolved-ref: "55732088872c5d1a4849005b65ac8df705e5542d"
+      ref: "v0.3.1"
+      resolved-ref: f0f1f8335cc23047b570a8916b793ce9e43ae01c
       url: "https://github.com/Oppkey/oppkey_thetaf.git"
     source: git
-    version: "0.3.0"
+    version: "0.3.1"
   typed_data:
     dependency: transitive
     description:
